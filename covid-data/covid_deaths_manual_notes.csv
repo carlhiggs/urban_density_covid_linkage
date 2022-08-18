@@ -1,0 +1,55 @@
+﻿GRGN_L1,CTR_MN_NM,UC_NM_MN,Cumulative deaths reported due to COVID-19,Notes,Data source,Reported Date
+Africa,Angola,Luanda,,,,
+Africa,Egypt,Cairo,,,,
+Africa,Ghana,Accra,,,,
+Africa,Morocco,Casablanca,,,,
+Africa,Nigeria,Amaigbo,,,,
+Africa,Nigeria,Lagos,771,"State; suprisingly small number, however most would be expected to be associated with the city of Lagos",https://covid19.ncdc.gov.ng/#!,15/08/2022
+Africa,Nigeria,Onitsha,,,,
+Africa,South Africa,Johannesburg,22143,"""Estimated number of excess natural deaths ... (all ages)"" -- 3 May 2020 to 6 Aug 2022",https://www.samrc.ac.za/reports/report-weekly-deaths-south-africa,10/08/2022
+Africa,Sudan,Khartoum,,,,
+Asia,Bangladesh,Dhaka,,,,
+Asia,China,Guangzhou,8,"JHU has Guangdong province, a broader area with 8 deaths recorded.  That seems suprisingly low, but lets record that for Guangzhou, the capital of Guangdong.  A number of these deaths would have likely occurred there, so may be considered approximately accurate.",https://github.com/CSSEGISandData/COVID-19/blob/master/csse_covid_19_data/csse_covid_19_daily_reports/08-13-2022.csv,13/08/2022
+Asia,China,Shanghai,595,Verified GHS and Shanghai province area on Google maps appears similar,https://github.com/CSSEGISandData/COVID-19/blob/master/csse_covid_19_data/csse_covid_19_daily_reports/08-13-2022.csv,13/08/2022
+Asia,India,Delhi [New Delhi],26376,This expanse approximates the GHS urban agglomeration,https://github.com/CSSEGISandData/COVID-19/blob/master/csse_covid_19_data/csse_covid_19_daily_reports/08-13-2022.csv,13/08/2022
+Asia,India,Kolkata,,"Kolkata is capital of West Bengal, which JHU has data for, however this is a large state with a few cities and so the number isn't a good fit for a single city.  I searched local/regional/country Indian government sites but couldn't find data.",,
+Asia,Indonesia,Jakarta,15304,See latest data point of graph (estimate didn't appear at top of screen),https://www.fast-trackcities.org/data-visualization/jakarta-covid,15/07/2022
+Asia,Japan,Osaka [Kyoto],6110,Sum of Osaka and Kyoto 5313+797=6110,https://github.com/CSSEGISandData/COVID-19/blob/master/csse_covid_19_data/csse_covid_19_daily_reports/08-13-2022.csv,13/08/2022
+Asia,Japan,Tokyo,8700,"Sum of Chiba,",https://github.com/CSSEGISandData/COVID-19/blob/master/csse_covid_19_data/csse_covid_19_daily_reports/08-13-2022.csv,13/08/2022
+Asia,Thailand,Bangkok,7974,,https://www.fast-trackcities.org/data-visualization/bangkok-covid,16/07/2022
+Europe,France,Paris,6119,"""According to the latest report as of Tuesday 16 August 2022: Paris records 745 (-17) hospitalized, 77 (-2) in ICU and 6,119 deaths (+4)""  This news site cites the geodata portal of Santé Publique France (the French health agency) -- however I could not locate the Paris specific statistic there, only the one for Ile-de-France region (but I can't read/speak French!).  Hence, I cited the news article.",https://www.sortiraparis.com/news/coronavirus/articles/216996-coronavirus-in-paris-and-ile-de-france-15-covid-deaths-in-24h-338-patients-in-icu/lang/en,17/08/2022
+Europe,Germany,Berlin,4739, State of Berlin is the city (it is surrounded by the State of Brandenburg),https://github.com/CSSEGISandData/COVID-19/blob/master/csse_covid_19_data/csse_covid_19_daily_reports/08-13-2022.csv,13/08/2022
+Europe,Italy,Milan,12399,"This is the provincial estimate, although the majority could be expected to relate to the city of Milan",https://www.regione.lombardia.it/wps/portal/istituzionale/HP/servizi-e-informazioni/cittadini/salute-e-prevenzione/coronavirus/dashboard-covid19,16/08/2022
+Europe,Italy,Naples,,"I don't believe that death statistics are released at provincial level for Italy; only cases.  I found total case data for Napoli, but not deaths.   Unfortunately, Campania (regional gov) doesn't have a Covid dashboard like Lombardia (Milano regional govt)",https://github.com/pcm-dpc/COVID-19/blob/master/dati-province/dpc-covid19-ita-province-20220816.csv,
+Europe,Netherlands,Rotterdam [The Hague],1170,,https://coronadashboard.government.nl/gemeente/GM0599/sterfte,16/08/2022
+Europe,Russia,Moscow,44677,Moscow is the city proper; JHU also has Moscow Oblast which is the broader region -- but I think Moscow better corresponds with urban portion,https://github.com/CSSEGISandData/COVID-19/blob/master/csse_covid_19_data/csse_covid_19_daily_reports/08-13-2022.csv,13/08/2022
+Europe,United Kingdom,Birmingham,3718,,https://lginform.local.gov.uk/reports/lgastandard?mod-metric=13709&mod-period=1&mod-area=E08000025&mod-group=AllMetropolitanBoroughLaInCountry_England&mod-type=namedComparisonGroup,14/08/2022
+Europe,United Kingdom,London,19102,"""The total number of COVID-19 deaths reported in London hospitals of patients who had tested positive for COVID-19 is now 19,102. """,https://data.london.gov.uk/dataset/coronavirus--covid-19--deaths,08/08/2022
+Europe,United Kingdom,Manchester,1392,,https://lginform.local.gov.uk/reports/lgastandard?mod-metric=13709&mod-period=1&mod-area=E08000003&mod-group=AllMetropolitanBoroughLaInCountry_England&mod-type=namedComparisonGroup,08/08/2022
+Latin America and the Caribbean,Argentina,Buenos Aires,56553,,https://drexel.edu/lac/data-evidence/covid-19/salurbal-tracks-covid-19/,29/05/2022
+Latin America and the Caribbean,Brazil,Curitiba,13129,,https://drexel.edu/lac/data-evidence/covid-19/salurbal-tracks-covid-19/,24/04/2022
+Latin America and the Caribbean,Brazil,Goiânia,10783,,https://drexel.edu/lac/data-evidence/covid-19/salurbal-tracks-covid-19/,24/04/2022
+Latin America and the Caribbean,Brazil,Rio de Janeiro,54705,,https://drexel.edu/lac/data-evidence/covid-19/salurbal-tracks-covid-19/,24/04/2022
+Latin America and the Caribbean,Brazil,São Paulo,76368,,https://drexel.edu/lac/data-evidence/covid-19/salurbal-tracks-covid-19/,24/04/2022
+Latin America and the Caribbean,Mexico,Ciudad Juárez,3223,,https://drexel.edu/lac/data-evidence/covid-19/salurbal-tracks-covid-19/,06/06/2022
+Latin America and the Caribbean,Mexico,Mexico City,53718,,https://drexel.edu/lac/data-evidence/covid-19/salurbal-tracks-covid-19/,06/06/2022
+Latin America and the Caribbean,Mexico,Monterrey,12310,,https://drexel.edu/lac/data-evidence/covid-19/salurbal-tracks-covid-19/,06/06/2022
+Latin America and the Caribbean,Peru,Lima,9734,,https://drexel.edu/lac/data-evidence/covid-19/salurbal-tracks-covid-19/,06/06/2022
+Northern America,United States,Chicago,7738,,https://drexel-uhc.shinyapps.io/bchc_covid19/,26/06/2022
+Northern America,United States,Dallas,6820,,https://drexel-uhc.shinyapps.io/bchc_covid19/,26/06/2022
+Northern America,United States,Detroit,8122,,https://drexel-uhc.shinyapps.io/bchc_covid19/,26/06/2022
+Northern America,United States,Houston,11176,"JHU statistic is for Harris county Texas, which is a larger area than the urban agglomeration, but mostly contains Houston.   Most deaths would be expected to relate to the urban agglomeration of Houston within Harris county.   Houston was included in the Drexel BCHC dashboard, but death counts were not available.",https://github.com/CSSEGISandData/COVID-19/blob/master/csse_covid_19_data/csse_covid_19_daily_reports/08-13-2022.csv,13/08/2022
+Northern America,United States,Indianapolis,2910,,https://drexel-uhc.shinyapps.io/bchc_covid19/,26/06/2022
+Northern America,United States,Los Angeles,32324,,https://drexel-uhc.shinyapps.io/bchc_covid19/,26/06/2022
+Northern America,United States,New York,35185,,https://drexel-uhc.shinyapps.io/bchc_covid19/,26/06/2022
+Northern America,United States,Phoenix,17692,"This statistic is for Maricopa county, which is a larger area than the urban agglomeration, however most deaths would be expected to relate to the urban agglomeration of Phoenix within Maricopa county",https://www.azdhs.gov/covid19/data/index.php,10/08/2022
+Northern America,United States,Tampa,,, ,
+Oceania,Australia,Adelaide,759,"This is a statistic for the state of South Australia, a very large region of which Adelaide is the capital. Most deaths could be expected to relate to Adelaide, but this statistic is not specific to that city.",,17/08/2022
+Oceania,Australia,Brisbane,804,The sum of Metro North and Metro South statistics 318+486=804,https://www.qld.gov.au/health/conditions/health-alerts/coronavirus-covid-19/government-response/statistics,17/08/2022
+Oceania,Australia,Gold Coast,261,Gold Coast Hospital and Health Service and region statistic,https://www.qld.gov.au/health/conditions/health-alerts/coronavirus-covid-19/government-response/statistics,17/08/2022
+Oceania,Australia,Melbourne,,"Only Victoria state-wide mortality available (""4,990 total lives lost""; https://www.coronavirus.vic.gov.au/victorian-coronavirus-covid-19-data)",,
+Oceania,Australia,Newcastle,,"Only statewide NSW statistic available (4,583 deaths ""since beginning of pandemic"") https://www.health.nsw.gov.au/Infectious/covid-19/Pages/stats-nsw.aspx#more",,
+Oceania,Australia,Perth,,,,
+Oceania,Australia,Sydney,,"Only statewide NSW statistic available (4,583 deaths ""since beginning of pandemic"") https://www.health.nsw.gov.au/Infectious/covid-19/Pages/stats-nsw.aspx#more",,
+Oceania,New Zealand,Auckland,118,,https://www.health.govt.nz/covid-19-novel-coronavirus/covid-19-data-and-statistics/covid-19-current-cases#location,17/08/2022
+Oceania,New Zealand,Hillcrest,,"It looks like the GHS boundary for 'Hillcrest' is actually the northern portion for Auckland, which the 118 deaths above would relate to.  As such the population and area of these entities should probably be combined to match that statistic.",,
