@@ -44,7 +44,7 @@ Northern America,United States,Los Angeles,32324,,https://drexel-uhc.shinyapps.i
 Northern America,United States,New York,35185,,https://drexel-uhc.shinyapps.io/bchc_covid19/,26/06/2022
 Northern America,United States,Phoenix,17692,"This statistic is for Maricopa county, which is a larger area than the urban agglomeration, however most deaths would be expected to relate to the urban agglomeration of Phoenix within Maricopa county",https://www.azdhs.gov/covid19/data/index.php,10/08/2022
 Northern America,United States,Tampa,,, ,
-Oceania,Australia,Adelaide,759,"This is a statistic for the state of South Australia, a very large region of which Adelaide is the capital. Most deaths could be expected to relate to Adelaide, but this statistic is not specific to that city.",,17/08/2022
+Oceania,Australia,Adelaide,,"779 --- This is a statistic for the state of South Australia, a very large region of which Adelaide is the capital. Most deaths could be expected to relate to Adelaide, but this statistic is not specific to that city.  So, omitted.",,21/08/2022
 Oceania,Australia,Brisbane,804,The sum of Metro North and Metro South statistics 318+486=804,https://www.qld.gov.au/health/conditions/health-alerts/coronavirus-covid-19/government-response/statistics,17/08/2022
 Oceania,Australia,Gold Coast,261,Gold Coast Hospital and Health Service and region statistic,https://www.qld.gov.au/health/conditions/health-alerts/coronavirus-covid-19/government-response/statistics,17/08/2022
 Oceania,Australia,Melbourne,,"Only Victoria state-wide mortality available (""4,990 total lives lost""; https://www.coronavirus.vic.gov.au/victorian-coronavirus-covid-19-data)",,
